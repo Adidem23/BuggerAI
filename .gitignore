@@ -1,0 +1,9 @@
+.env
+node_modules
+.vscode
+.idea
+.vscode-test
+.vscodeignore
+.vscode-test.mjs
+.vscode-test.js
+test
